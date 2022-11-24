@@ -11,5 +11,7 @@
  * Комминтимся > git commit -m " branch creating info added" 
 
  ## Branch merning 
+  * мы выполнили первое слияние " Fast forward " два фрагмента без альтернатив в содержании; 
+ * но теперь мы выполняем второй вариант  "ORT Strategy"  
 
  ## Conflicts 
